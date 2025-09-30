@@ -1,0 +1,11 @@
+Copyright © 2025 Masoud Ghasemi
+
+This repository contains personal content including technical CV, certificates, and project summaries.
+
+All rights reserved. No part of this repository may be copied, modified, reused, or redistributed in any form without explicit written permission from the owner.
+
+This repository is intended solely for professional review, portfolio reference, and personal documentation.
+
+Unauthorized use of any content, including but not limited to text, images, certificates, or linked files, is strictly prohibited.
+
+For inquiries or collaboration requests, please contact: masudpythongit@gmail.com
