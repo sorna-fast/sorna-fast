@@ -2,7 +2,7 @@
 
 ###
 
-**Backend and AI Developer** with over **2 years of experience** in designing and implementing **scalable APIs, database management**, and developing **robust architectures using Python**.
+**Backend and AI Developer** implementing **scalable APIs, database management**, and developing **robust architectures using Python**.
 Proven track record in building **machine learning models with over 98% accuracy** in **image processing** and **medical diagnostics**, utilizing **TensorFlow, Keras, and Scikit-learn**.
 Eager to collaborate in **innovative teams** to develop **intelligent and scalable** systems in the fields of **data analytics** and **backend services**.
 
