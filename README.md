@@ -72,6 +72,7 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
   <a href="./Certificate/Iran-Technical-and-Vocational-Training-Organization-(TVTO)/">
     <img src="https://img.shields.io/badge/TVTO-36454F?style=for-the-badge" alt="TVTO" />
   </a>
+
   <a href="./Certificate/MSRT-of-Iran/">
     <img src="https://img.shields.io/badge/MSRT-32CD32?style=for-the-badge" alt="MSRT" />
   </a>
@@ -82,6 +83,10 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
 
   <a href="./Certificate/LINKEDIN-LEARNING/">
     <img src="https://img.shields.io/badge/LINKEDIN LEARNING-1E90FF?style=for-the-badge" alt="LINKEDIN LEARNING" />
+  </a>
+
+  <a href="./Certificate/University-of-Urbino-Carlo/">
+    <img src="https://img.shields.io/badge/Urbino Carlo-cadbe3?style=for-the-badge" alt="University of Urbino Carlo" />
   </a>
 
   <a href="./Certificate/IRAN-DIGITAL/">
