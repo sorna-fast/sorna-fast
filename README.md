@@ -85,7 +85,7 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
     <img src="https://img.shields.io/badge/LINKEDIN LEARNING-1E90FF?style=for-the-badge" alt="LINKEDIN LEARNING" />
   </a>
 
-  <a href="./Certificate/University-of-Urbino-Carlo/">
+  <a href="./Certificate/Urbino-Carlo/">
     <img src="https://img.shields.io/badge/Urbino Carlo-cadbe3?style=for-the-badge" alt="University of Urbino Carlo" />
   </a>
 
