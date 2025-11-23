@@ -1,0 +1,1 @@
+**All certificates in this folder have a barcode link for query. So there is no need for explanation or additional information in this file.**

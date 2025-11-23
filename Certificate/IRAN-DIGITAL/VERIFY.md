@@ -1,0 +1,1 @@
+All certificates in this folder have a dedicated link for querying in the certificate file. Therefore, there is no need for any explanation or additional information in this file.
