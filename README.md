@@ -64,9 +64,8 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
 
 
 ###
-<a href="./Certificate/">
+
 <h2 align="left">🎓 Education & Certifications</h2>
-</a>
 
 ###
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
