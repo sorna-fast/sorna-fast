@@ -62,9 +62,11 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-###
 
+###
+<a href="./Certificate/">
 <h2 align="left">🎓 Education & Certifications</h2>
+</a>
 
 ###
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
