@@ -19,6 +19,7 @@
 - [Sql-Teaining](https://www.daneshjooyar.com/cf/iYMkNpGqzJ)
 - [Web-Concepts](https://www.daneshjooyar.com/cf/iaDdNMulmq)
 - [Word](https://www.daneshjooyar.com/cf/io3xZctCGk)
+- [Wordpress](https://www.daneshjooyar.com/cf/Aks5zL83fa)
 - [work-with-Excel-files-In-Python](https://www.daneshjooyar.com/cf/vXrTmJA8Qz)
 
 All links are directly connected to the official Daneshjooyar page 
