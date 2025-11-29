@@ -68,45 +68,52 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
 <h2 align="left">🎓 Education & Certifications</h2>
 
 ###
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 3px;">
+
 
   <a href="./Certificate/Iran-Technical-and-Vocational-Training-Organization-(TVTO)/">
-    <img src="https://img.shields.io/badge/TVTO-36454F?style=for-the-badge" alt="TVTO" />
+    <img src="https://img.shields.io/badge/TVTO-000000?style=for-the-badge&logoColor=ffffff" alt="TVTO" />
   </a>
+
 
   <a href="./Certificate/MSRT-of-Iran/">
-    <img src="https://img.shields.io/badge/MSRT-32CD32?style=for-the-badge" alt="MSRT" />
+    <img src="https://img.shields.io/badge/MSRT-ffffff?style=for-the-badge&logoColor=000000" alt="MSRT" />
   </a>
+
 
   <a href="./Certificate/CS50/">
-    <img src="https://img.shields.io/badge/Harvard%20CS50-DC143C?style=for-the-badge" alt="Harvard CS50" />
+    <img src="https://img.shields.io/badge/Harvard%20CS50-000000?style=for-the-badge&logoColor=ffffff" alt="Harvard CS50" />
   </a>
+
 
   <a href="./Certificate/LINKEDIN-LEARNING/">
-    <img src="https://img.shields.io/badge/LINKEDIN LEARNING-1E90FF?style=for-the-badge" alt="LINKEDIN LEARNING" />
+    <img src="https://img.shields.io/badge/LINKEDIN%20LEARNING-ffffff?style=for-the-badge&logoColor=000000" alt="LINKEDIN LEARNING" />
   </a>
+
 
   <a href="./Certificate/Urbino-Carlo/">
-    <img src="https://img.shields.io/badge/Urbino Carlo-cadbe3?style=for-the-badge" alt="University of Urbino Carlo" />
+    <img src="https://img.shields.io/badge/Urbino%20Carlo-000000?style=for-the-badge&logoColor=ffffff" alt="University of Urbino Carlo" />
   </a>
 
+
   <a href="./Certificate/IRAN-DIGITAL/">
-    <img src="https://img.shields.io/badge/IRAN%20DIGITAL-8A2BE2?style=for-the-badge" alt="IRAN DIGITAL" />
+    <img src="https://img.shields.io/badge/IRAN%20DIGITAL-ffffff?style=for-the-badge&logoColor=000000" alt="IRAN DIGITAL" />
   </a>
 
   <a href="./Certificate/Faraders/">
-    <img src="https://img.shields.io/badge/Faradars-FF8C00?style=for-the-badge" alt="Faradars" />
+    <img src="https://img.shields.io/badge/Faradars-000000?style=for-the-badge&logoColor=ffffff" alt="Faradars" />
   </a>
 
   <a href="./Certificate/intellipaat/">
-    <img src="https://img.shields.io/badge/Intellipaat-FFD700?style=for-the-badge" alt="Intellipaat" />
+    <img src="https://img.shields.io/badge/Intellipaat-ffffff?style=for-the-badge&logoColor=000000" alt="Intellipaat" />
   </a>
 
   <a href="./Certificate/Daneshjooyar/">
-    <img src="https://img.shields.io/badge/Daneshjooyar-20B2AA?style=for-the-badge" alt="Daneshjooyar" />
+    <img src="https://img.shields.io/badge/Daneshjooyar-000000?style=for-the-badge&logoColor=ffffff" alt="Daneshjooyar" />
   </a>
 
 </div>
+
 
 <br>
 
