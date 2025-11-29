@@ -1,4 +1,4 @@
-<img src="https://images.seeklogo.com/logo-png/28/1/harvard-university-logo-png_seeklogo-284458.png" style="width:200px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILhPVgd3565e7tziqIsErHFXMijEkuggVFQ&s" style="width:200px;">
 <br>
 <br>
 **All certificates in this folder have a barcode and a dedicated link for inquiry.
