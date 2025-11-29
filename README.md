@@ -96,8 +96,8 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
   </a>
 
 
-  <a href="./Certificate/IRAN-DIGITAL/">
-    <img src="https://img.shields.io/badge/IRAN%20DIGITAL-ffffff?style=for-the-badge&logoColor=000000" alt="IRAN DIGITAL" />
+  <a href="./Certificate/Kaggle/">
+    <img src="https://img.shields.io/badge/Kaggle-ffffff?style=for-the-badge&logoColor=000000" alt="Kaggle" />
   </a>
 
   <a href="./Certificate/Faraders/">
@@ -112,6 +112,9 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
     <img src="https://img.shields.io/badge/Daneshjooyar-000000?style=for-the-badge&logoColor=ffffff" alt="Daneshjooyar" />
   </a>
 
+  <a href="./Certificate/IRAN-DIGITAL/">
+    <img src="https://img.shields.io/badge/IRAN%20DIGITAL-ffffff?style=for-the-badge&logoColor=000000" alt="IRAN DIGITAL" />
+  </a>
 </div>
 
 
