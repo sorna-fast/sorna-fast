@@ -1,4 +1,6 @@
-# intellipaat
+<img src="https://intellipaat.com/wp-content/themes/intellipaat/images/intellipaat_logo.svg" style="width:200px;">
+<br>
+<br>
 
 🔗 Certificate Inquiry Link:
 - [Artificial-Intelligence-(AI)Course](https://intellipaat.com/academy/certificate-link/?Yz0xODI3JnU9MjY0NjA1JmV4dD0x)

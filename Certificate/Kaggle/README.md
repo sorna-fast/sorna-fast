@@ -1,4 +1,7 @@
-# Kaggle
+<img src="https://www.kaggle.com/static/images/site-logo.svg" style="width:200px;">
+<br>
+<br>
+
 
 🔗 Certificate Inquiry Link:
 - [Advanced-SQL](https://www.kaggle.com/learn/certification/masudghasemi/advanced-sql)
