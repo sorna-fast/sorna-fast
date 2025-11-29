@@ -1,4 +1,6 @@
-# LinkedIn Learning Certificates
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3ERfJWtv-7e_tGGiUzw34Wpl1hXwdIQxHg&s" style="width:200px;">
+<br>
+<br>
 
 🔗 Certificate Inquiry Link:
 - [AI](https://www.linkedin.com/learning/certificates/226ad8621b66d6b5e0c6f2f03550ca4f84e2fa5358d12fe4033c47a1c445d95a?trk=share_certificate)
