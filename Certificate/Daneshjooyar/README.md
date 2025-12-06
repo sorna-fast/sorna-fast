@@ -6,6 +6,7 @@
 - [ai-programming](https://www.daneshjooyar.com/cf/gyztqw6YC1)
 - [ai-training](https://www.daneshjooyar.com/cf/zw9Z1ma3OB)
 - [Algorithm-and-Flowchart](https://www.daneshjooyar.com/cf/pGln1HbdyM)
+- [computer-training-from-scratch](https://www.daneshjooyar.com/cf/WgEJAe6Kkd)
 - [Converting-speech-to-text-with-Python](https://www.daneshjooyar.com/cf/9NRHJkhBy4)
 - [css-training](https://www.daneshjooyar.com/cf/fC4OybGLEn)
 - [django-training](https://www.daneshjooyar.com/cf/JasbRd4TIF)
