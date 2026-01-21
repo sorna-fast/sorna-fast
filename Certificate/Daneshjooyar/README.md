@@ -10,6 +10,7 @@
 - [Converting-speech-to-text-with-Python](https://www.daneshjooyar.com/cf/9NRHJkhBy4)
 - [css-training](https://www.daneshjooyar.com/cf/fC4OybGLEn)
 - [django-training](https://www.daneshjooyar.com/cf/JasbRd4TIF)
+- [English-language-learning](https://www.daneshjooyar.com/cf/BHiKLUJA5D)
 - [Excl-Teaining](https://www.daneshjooyar.com/cf/oPn4KjUJLs)
 - [Hardware-training](https://www.daneshjooyar.com/cf/hSKkYWrGen)
 - [html-css-training](https://www.daneshjooyar.com/cf/BN5d7UzuIV)
