@@ -115,6 +115,10 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
   <a href="./Certificate/IRAN-DIGITAL/">
     <img src="https://img.shields.io/badge/IRAN%20DIGITAL-ffffff?style=for-the-badge&logoColor=000000" alt="IRAN DIGITAL" />
   </a>
+
+  <a href="./Certificate/ACECR/">
+    <img src="https://img.shields.io/badge/ACECR-000000?style=for-the-badge&logoColor=ffffff" alt="ACECR" />
+  </a>
 </div>
 
 
