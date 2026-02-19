@@ -21,6 +21,7 @@
 - [network-training](https://www.daneshjooyar.com/cf/aTIo6Nr4mK)
 - [programming-principles-and-basics]()
 - [python-training](https://www.daneshjooyar.com/cf/oUBcyGH3Qz)
+- [regex-tutorial-in-javascript](https://www.daneshjooyar.com/cf/QM4bUZTvNu)
 - [RegEx](https://www.daneshjooyar.com/cf/zgbGMVpOI2)
 - [screen-recorder-with-python](https://www.daneshjooyar.com/cf/sv3iajPIf8)
 - [Sql-Teaining](https://www.daneshjooyar.com/cf/iYMkNpGqzJ)
