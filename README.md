@@ -119,6 +119,10 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
   <a href="./Certificate/ََACECR/">
     <img src="https://img.shields.io/badge/ACECR-000000?style=for-the-badge&logoColor=ffffff" alt="ACECR" />
   </a>
+
+  <a href="./Certificate/LSSI/">
+    <img src="https://img.shields.io/badge/LSSI-ffffff?style=for-the-badge&logoColor=000000" alt="LSSI" />
+  </a>
 </div>
 
 
