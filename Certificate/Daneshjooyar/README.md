@@ -20,7 +20,7 @@
 - [mysql-training-course](https://www.daneshjooyar.com/cf/8IxEK5g9TD)
 - [network-&-software-knowledge](https://www.daneshjooyar.com/cf/bWs7fvPpVN)
 - [network-training](https://www.daneshjooyar.com/cf/aTIo6Nr4mK)
-- [omputer-systems-maintenance](https://www.daneshjooyar.com/cf/k4YjazoUFO)
+- [computer-systems-maintenance](https://www.daneshjooyar.com/cf/k4YjazoUFO)
 - [programming-principles-and-basics](https://www.daneshjooyar.com/cf/MeoK3lSYsD)
 - [python-training](https://www.daneshjooyar.com/cf/oUBcyGH3Qz)
 - [regex-tutorial-in-javascript](https://www.daneshjooyar.com/cf/QM4bUZTvNu)
