@@ -12,6 +12,7 @@
 - [django-training](https://www.daneshjooyar.com/cf/JasbRd4TIF)
 - [English-language-learning](https://www.daneshjooyar.com/cf/BHiKLUJA5D)
 - [Excl-Teaining](https://www.daneshjooyar.com/cf/oPn4KjUJLs)
+- [FastApi](https://www.daneshjooyar.com/cf/SRO2ugZ3vU)
 - [Hardware-training](https://www.daneshjooyar.com/cf/hSKkYWrGen)
 - [html-css-training](https://www.daneshjooyar.com/cf/BN5d7UzuIV)
 - [JavaScript-Tutorial](https://www.daneshjooyar.com/cf/G5C6sX3fBx)
