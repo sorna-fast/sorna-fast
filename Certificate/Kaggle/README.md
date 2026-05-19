@@ -15,6 +15,7 @@
 - [Machine-Learning-Explainability](https://www.kaggle.com/learn/certification/masudghasemi/machine-learning-explainability)
 - [Pandas](https://www.kaggle.com/learn/certification/masudghasemi/pandas)
 - [Python](https://www.kaggle.com/learn/certification/masudghasemi/python)
+- [Time-Series](https://www.kaggle.com/learn/certification/masudghasemi/python)
 
 
-All links are directly connected to the official Kaggle page 
+All links are directly connected to the official Kaggle page
