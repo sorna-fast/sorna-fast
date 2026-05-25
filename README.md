@@ -126,6 +126,11 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
   <a href="./Certificate/Payame-Noor-University/">
     <img src="https://img.shields.io/badge/Payame%20Noor-000000?style=for-the-badge&logoColor=ffffff" alt="Payame Noor" />
   </a>
+
+  <a href="./Certificate/Darsman/">
+    <img src="https://img.shields.io/badge/Darsman-ffffff?style=for-the-badge&logoColor=000000" alt="Darsman" />
+  </a>
+
 </div>
 
 
