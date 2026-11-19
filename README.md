@@ -131,6 +131,10 @@ Eager to collaborate in **innovative teams** to develop **intelligent and scalab
     <img src="https://img.shields.io/badge/Darsman-ffffff?style=for-the-badge&logoColor=000000" alt="Darsman" />
   </a>
 
+  <a href="./Certificate/SoloLearn/">
+    <img src="https://img.shields.io/badge/SoloLearn-000000?style=for-the-badge&logoColor=ffffff" alt="SoloLearn" />
+  </a>
+
 </div>
 
 
